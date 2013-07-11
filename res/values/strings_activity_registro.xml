@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt_numero_suministro">Número de suministro</string>
+    <string name="prompt_consumo">Consumo</string>
+    <string name="action_registro_consumo_button">Registrar consumo</string>
+    
+</resources>
